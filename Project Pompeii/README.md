@@ -2,8 +2,10 @@
 LGA Socket Replacement <br />
 Code Name: Coffee Lake (Socket 1151)
 
+![Alt text](/LGA Socket Replacement-BGA Package.png)
 This repository contains notes and useful images for the project. 
 
 The project has been officially finished.
 - Final motherboard: TG-H310 
 - Donor Boards: Gigabyte D3SH + Prime B360M-A
+
