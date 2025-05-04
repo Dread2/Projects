@@ -2,7 +2,7 @@
 LGA Socket Replacement <br />
 Code Name: Coffee Lake (Socket 1151)
 
-![Alt text](Projects/Project Pompeii/LGA Socket Replacement-BGA Package.jpg)
+![Alt text](Project Pompeii/LGA Socket Replacement-BGA Package.jpg)
 This repository contains notes and useful images for the project. 
 
 The project has been officially finished.
