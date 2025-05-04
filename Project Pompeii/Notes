@@ -1,0 +1,16 @@
+LGA1151 Socket (Coffee Lake Standard)
+- Socket must have a BGA.
+- Heated to 200-300C
+- Whole socket must be replaced as pins for DDR, VCCSA, PEG_R, 
+  and VCCGT are damaged
+- Board warmer is helpful but not needed. 
+- BGA solder balls with either be Tin or Lead. Flux, Solder paste, and Hot air may be needed to 
+ reball the socket easier. 
+- Caution must be ensured as damaging traces on multi-layer PCB's will often make the board unsalvagable as 
+  manufacturing equipment is needed in the repair process. 
+Safety Precautions
+- Eye protection
+- Fireproof / Resistant Surface
+- Ensure board components are protected using something 
+  with thermal insulation such as Kapton Tape. Otherwise there is risk of
+ damaging / exploding the inductors or capacitors near by the socket on the VRM.
