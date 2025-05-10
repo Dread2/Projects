@@ -1,4 +1,5 @@
-**Project Pompeii: ASROCK B365M IB-R Repair** <br />
+**ASROCK B365M IB-R Repair** <br />
+**Project Codename: Pompeii**
 LGA Socket Replacement <br />
 CPU Socket: Coffee Lake (Socket 1151)
 
