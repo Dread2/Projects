@@ -5,7 +5,7 @@ Socket Type: LGA1151
 
 This repository contains notes and useful images for the project. 
 
-The project has been officially concluded.
+The project has officially concluded.
 - Final motherboard: TG-H310 
 - Donor Boards: Gigabyte D3SH + Prime B360M-A
 
