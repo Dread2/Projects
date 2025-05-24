@@ -1,4 +1,4 @@
-**Project Pompeii: ASROCK B365M IB-R Repair** <br />
+**Project Pompeii: Pomya TG-H310 Repair** <br />
 LGA Socket Replacement <br />
 CPU Architecture: Coffee Lake <br />
 Socket Type: LGA1151
